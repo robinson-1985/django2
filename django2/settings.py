@@ -152,6 +152,7 @@ EMAIL_HOST_PASSWORD = 'sua-senha'
 """
 
 #  Recursos Extras de Segurança do Django
+
 SECURE_HSTS_SECONDS = True
 SECURE_HSTS_INCLUDE_SUBDOMAINS = True
 SECURE_CONTENT_TYPE_NOSNIFF = True
